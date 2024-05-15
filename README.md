@@ -1,2 +1,2 @@
 # CartApp-Php
- Cart Simple App (Php)
+ Simple Cart App (Php)
